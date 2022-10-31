@@ -49,6 +49,25 @@ J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Re
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sim2Real</div><img src='images/rm.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RoboMaster University Sim2Real Challenge: Using State Machine to achieve**
+
+</div>
+</div>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SwarmingRobot</div><img src='images/multi.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Swarming Robot Navigation: Building platforms and Testing algorithms**
+
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021-2022* 	National Scholarship of China (**TOP 0.2% in China**)
 - *2019-2020* Li Wen & Yang Yan Scholarship (**TOP 1/3870 in Class 2019 of BUCT**)

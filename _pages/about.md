@@ -28,7 +28,7 @@ I am currently a forth year (2019-2023) undergraduate student at the College of 
  
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Sim2Real.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/sim2realGIF.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Sim-to-Real Transfer of Soft Robotic Navigation Strategies That Learns from the Virtual Eye-in-Hand Vision**
@@ -41,9 +41,9 @@ J. Lai, **T. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Ren(C
 </div>
 
 # 🎖 Honors and Awards
-- *2021-2022* 	National Scholarship of China (**0.2% in China**)
-- *2019-2020* Li Wen & Yang Yan Scholarship (**TOP 1/3870 in Class 2019 of BUCT, 10000 CNY**)
-- *2020-2021* Jinfa Technological Scholarship (**TOP 0.5% in College of Mechanical and Electrical Engineering , 4000 CNY**)  
+- *2021-2022* 	National Scholarship of China (**TOP 0.2% in China**)
+- *2019-2020* Li Wen & Yang Yan Scholarship (**TOP 1/3870 in Class 2019 of BUCT**)
+- *2020-2021* Jinfa Technological Scholarship (**TOP 0.5% in College of Mechanical and Electrical Engineering**)  
 - *2021-2022* First Prize Scholarship of BUCT (**Twice**) 
 
 # 📖 Educations

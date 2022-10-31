@@ -35,7 +35,7 @@ I am currently a fourth year (2019-2023) undergraduate student majoring in Robot
 
 J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Ren (Corresponding author)
 
-Simulation **Platform: SOFA Framework**
+Simulation Platform: **SOFA Framework**
   
 <!-- [Preprint](https://arxiv.org/abs/2206.11804) \| [Demo](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation) -->
 

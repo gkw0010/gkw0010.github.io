@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently a forth year (2019-2023) undergraduate student at the College of Mechanical and Electrical Engineering, Beijing University of Chemical Technology. I am majoring in Robotics Engineering and my research interests are mainly about Soft Robot, Surgical Robot, Robot Navigation and Healthy Care.
+I am currently a fourth year (2019-2023) undergraduate student majoring in Robotics Engineering at the College of Mechanical and Electrical Engineering, Beijing University of Chemical Technology. My research interests are mainly about Soft Robot, Surgical Robot, Robot Navigation and Healthy Care.
 
 
 

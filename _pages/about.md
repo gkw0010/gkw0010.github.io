@@ -31,7 +31,7 @@ I am currently a forth year (2019-2023) undergraduate student at the College of 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/sim2realGIF.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Sim-to-Real Transfer of Soft Robotic Navigation Strategies**
+**Sim-to-Real Method for Soft Robotic Navigation (To be Revealed)**
 
 J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Ren(Corresponding author)
   

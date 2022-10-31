@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tian-ao Ren(Teo)"
+title                    : "Tian-Ao Ren (Teo)"
 description              : "Robot Control, Soft Robot, Robot Navigation"
 repository               : "TeoREN0217/TeoREN0217.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tian-ao Ren(Teo)"
+  name             : "Tian-Ao Ren (Teo)"
   avatar           : "images/android-chrome-384x384.png"
-  bio              : "B.Eng.@BUCT(2019-2023)"
+  bio              : "B.Eng.@BUCT (2019-2023)"
   location         : "Beijing, China"
   employer         :
   pubmed           : 

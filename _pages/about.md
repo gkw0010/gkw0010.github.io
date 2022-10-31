@@ -28,14 +28,14 @@ I am currently a forth year (2019-2023) undergraduate student at the College of 
  
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/sim2realGIF.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/sim.gif' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Sim-to-Real Method for Soft Robotic Navigation (To be Revealed)**
 
 J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Ren (Corresponding author)
   
-[Preprint](https://arxiv.org/abs/2206.11804) \| [Demo](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation)
+<!-- [Preprint](https://arxiv.org/abs/2206.11804) \| [Demo](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation) -->
 
 </div>
 </div>

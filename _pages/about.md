@@ -28,7 +28,7 @@ I am currently a forth year (2019-2023) undergraduate student at the College of 
  
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022</div><img src='images/Sim2Real.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/Sim2Real.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Sim-to-Real Transfer of Soft Robotic Navigation Strategies That Learns from the Virtual Eye-in-Hand Vision**
@@ -41,18 +41,16 @@ J. Lai, **T. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Ren(C
 </div>
 
 # 🎖 Honors and Awards
-- *2021-2022* 	National Scholarship of China(0.2% in China)
-- *2019-2020* Li Wen & Yang Yan Scholarship (TOP 1/3870 in Class 2019 of BUCT, 10000 CNY)
-- *2020-2021* Jinfa Technological Scholarship (TOP 0.5% in College of Mechanical and Electrical Engineering , 4000 CNY)  
-- *2021-2022* First Prize Scholarship of BUCT (Twice) 
+- *2021-2022* 	National Scholarship of China (**0.2% in China**)
+- *2019-2020* Li Wen & Yang Yan Scholarship (**TOP 1/3870 in Class 2019 of BUCT, 10000 CNY**)
+- *2020-2021* Jinfa Technological Scholarship (**TOP 0.5% in College of Mechanical and Electrical Engineering , 4000 CNY**)  
+- *2021-2022* First Prize Scholarship of BUCT (**Twice**) 
 
 # 📖 Educations
 - *2019.09 - 2023.07 (now)*, B.Eng., Robotics Engineering, Beijing University of Chemical Technology, Beijing, China
 
 
 # 💻 Internships
-- *2022.06 - 2022.10*, [Summer Research Intern], Department of Electronic Engineering, The Chinese University of Hong Kong, Shatin, Hong Kong.
-- Supervised by Prof. Hongliang Ren, SM-IEEE, World's Top 2% Scientists of 2022.
+- *2022.06 - 2022.10*, [Summer Research Intern], Department of Electronic Engineering, The Chinese University of Hong Kong, Shatin, Hong Kong. Supervised by **Prof. Hongliang Ren**, SM-IEEE, World's Top 2% Scientists of 2022.
 
-- *2021.12 - now*, [Research Intern], Institute of AI Industry Research(AIR), Tsinghua University,Beijing, China. 
-- Supervised by Prof. Guyue Zhou, leading AIR DISCOVER Lab, MIT TR35 Asia-Pacific of 2021.
+- *2021.12 - now*, [Research Intern], Institute of AI Industry Research(AIR), Tsinghua University,Beijing, China. Supervised by **Prof. Guyue Zhou**, leading AIR DISCOVER Lab, MIT TR35 Asia-Pacific of 2021.

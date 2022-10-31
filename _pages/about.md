@@ -28,7 +28,7 @@ I am currently a forth year (2019-2023) undergraduate student at the College of 
  
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/sim2.gif' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/sim2.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Sim-to-Real Method for Soft Robotic Navigation (To be Revealed)**

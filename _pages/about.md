@@ -41,7 +41,7 @@ J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Re
 </div>
 
 # 💬 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cruising</div><img src='images/crusing.mp4' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cruising</div><img src='images/crusing.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Speed of 2m/s when cruising around the floor and supporting dynamic obstacle avoidance**

@@ -67,6 +67,15 @@ Simulation **Platform: SOFA Framework**
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HASEL</div><img src='images/HASEL.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Customized Soft-exoskeleton Robotics Module based on Hydraulic Amplification**
+
+</div>
+</div>
+
+
 # 🎖 Honors and Awards
 - *2021-2022* 	National Scholarship of China (**TOP 0.2% in China**)
 - *2019-2020* Li Wen & Yang Yan Scholarship (**TOP 1/3870 in Class 2019 of BUCT**)

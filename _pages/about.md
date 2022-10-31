@@ -51,6 +51,6 @@ J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Re
 
 
 # 💻 Internships
-- *2022.06 - 2022.10*, [Summer Research Intern], Department of Electronic Engineering, The Chinese University of Hong Kong, Shatin, Hong Kong. Supervised by **Prof. Hongliang Ren**, SM-IEEE, World's Top 2% Scientists of 2022.
+- *2022.06 - 2022.10*, [Summer Research Intern], Department of Electronic Engineering, The Chinese University of Hong Kong, Shatin, Hong Kong. Supervised by [Prof. Hongliang Ren](http://www.labren.org/mm/), SM-IEEE, World's Top 2% Scientists of 2022.
 
-- *2021.12 - now*, [Research Intern], Institute of AI Industry Research(AIR), Tsinghua University,Beijing, China. Supervised by **Prof. Guyue Zhou**, leading AIR DISCOVER Lab, MIT TR35 Asia-Pacific of 2021.
+- *2021.12 - now*, [Research Intern], Institute of AI Industry Research(AIR), Tsinghua University,Beijing, China. Supervised by [Prof. Guyue Zhou](https://air.tsinghua.edu.cn/en/info/1046/1196.htm), leading AIR DISCOVER Lab, MIT TR35 Asia-Pacific of 2021.

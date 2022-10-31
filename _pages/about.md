@@ -40,6 +40,15 @@ J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Re
 </div>
 </div>
 
+# 💬 Projects
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cruising</div><img src='images/crusing.mp4' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Speed of 2m/s when cruising around the floor and supporting dynamic obstacle avoidance**
+
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021-2022* 	National Scholarship of China (**TOP 0.2% in China**)
 - *2019-2020* Li Wen & Yang Yan Scholarship (**TOP 1/3870 in Class 2019 of BUCT**)

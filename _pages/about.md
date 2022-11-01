@@ -27,7 +27,7 @@ I am currently a Final-Year undergraduate student in Robotics Engineering at the
 - *2022.05*: &nbsp;🎉🎉 Won the Meritorious Award at [2022 Mathematical Contest in Modeling (MCM2022)](https://www.comap.com/contests/mcm-icm)!
 
  
-# 📝 Publication
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/sim2.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

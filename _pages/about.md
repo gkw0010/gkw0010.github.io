@@ -51,8 +51,8 @@ J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Re
 
 **Floor Cruising with Dynamic Obstacle Avoidance**
 - Maximum speed of 2 m/s
-- A
-- B
+- TEB algorithm for local planning
+- Multi-sensor fusion positioning to increase localization accuracy
 
 </div>
 </div>
@@ -62,8 +62,8 @@ J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Re
 
 **[ICRA2022 RoboMaster University Sim2Real Challenge](https://air.tsinghua.edu.cn/robomaster/sim2real_icra22.html)**
 - Team *777* - on behalf of Beijing University of Chemical Technology (Third Prize)
-- A
-- B
+- Use VINS-Mono location algorithm
+- D435 + IMU mode to improve motion tracking performance and make up gaps in illumination changes
 
 </div>
 </div>
@@ -72,8 +72,8 @@ J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Re
 <div class='paper-box-text' markdown="1">
 
 **Swarming Robot Navigation: Sim2Real Transfer**
-- A
-- B
+- Migrated multi-machine cooperative operation composite robot model in IsaacSIM
+- High stability and obstacle avoidance ability
 
 </div>
 </div>
@@ -82,8 +82,17 @@ J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Re
 <div class='paper-box-text' markdown="1">
 
 **Design and Characteristics of A Hydraulic Amplification-Based Soft-Exoskeleton Robotic Module**
-- A
-- B
+- Specially designed the casting mold to adapt to different application scenarios
+- Simulated the deformation of soft beam with pneumatic-HASELs and the assembled soft gripper in SOFA
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPR Model</div><img src='images/mcm.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Bitcon or Gold? --- An investment strategy of IPR(Imatation-Prediction-Risk) model based on ARIMA**
+- Compared ARIMA and LSTM models, resulted in ARIMA achieving better accuracy, even when adding the less effective LSTM model to our Imitation model and Risk model.
 
 </div>
 </div>

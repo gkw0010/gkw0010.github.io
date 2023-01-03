@@ -22,8 +22,10 @@ I am currently a Final-Year undergraduate student in Robotics Engineering at the
 
 
 # 🔥 News
+- *2023.01*: &nbsp;🎉🎉 After my summer internship, I'm working as Research Assistant supervised by Prof. Hongliang Ren in CUHK-SZRI!
 - *2022.10*: &nbsp;🎉🎉 After my summer internship, one of my co-first authored papers has been finally submitted to a top-tier IEEE Transactions Journal and is currently under review!
-- *2022.05*: &nbsp;🎉🎉 Won the Third Prize at [ICRA2022 RoboMaster University Sim2Real Challenge](https://air.tsinghua.edu.cn/robomaster/sim2real_icra22.html)!
+- *2022.05*: &nbsp;🎉🎉 Won the Third Prize at [ICRA2022 RoboMaster University Sim2Real Challenge](https://air.tsinghua.edu.cn/robomaster/sim2real_icra22.html
+- )!
 - *2022.05*: &nbsp;🎉🎉 Won the Meritorious Award at [2022 Mathematical Contest in Modeling (MCM2022)](https://www.comap.com/contests/mcm-icm)!
 
  
@@ -39,7 +41,7 @@ J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Re
 - Medical scene 3D reconstruction in [SOFA Framework](https://www.sofa-framework.org/)
 - Soft robot modeling and navigation with [SOFTROBOTS plugin](https://project.inria.fr/softrobot/)
 - Closed-loop soft robot navigation with that **learns** from the virtual eye-in-hand vision
-  
+- [Supply Video](https://youtu.be/vQ4xzFM9iwk)
 <!-- [Preprint](https://arxiv.org/abs/2206.11804) \| [Demo](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation) -->
 
 </div>
@@ -53,7 +55,7 @@ J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Re
 - Maximum speed of 2 m/s
 - TEB algorithm for local planning
 - Multi-sensor fusion positioning to increase localization accuracy
-
+- [Supply Video](https://youtu.be/cD4d4wI3bkI)
 </div>
 </div>
 
@@ -64,7 +66,7 @@ J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Re
 - Team *777* - on behalf of Beijing University of Chemical Technology (Third Prize)
 - Use VINS-Mono location algorithm
 - D435 + IMU mode to improve motion tracking performance and make up gaps in illumination changes
-
+- [Supply Video](https://youtu.be/BxEthzIn8SQ)
 </div>
 </div>
 
@@ -74,12 +76,32 @@ J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Re
 **Swarming Robot Navigation: Sim2Real Transfer**
 - Migrated multi-machine cooperative operation composite robot model in IsaacSIM
 - High stability and obstacle avoidance ability
+- [Supply Video](https://youtu.be/3UGTcBENg5Y)
+</div>
+</div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics Arm</div><img src='images/arm.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Sim2Real Transfer of ARX-5s robot (a 6-DOF robotic arm)**
+- [Supply Video](https://youtu.be/3UGTcBENg5Y)
+- [Robotics Arm Dancing](https://www.youtube.com/watch?v=NW4ZE4y-8hU)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Composite Robot</div><img src='images/composite.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Cooperative composite bipedal wheel-legged robot model with a 6-DOF arm in Isaac SIM**
+- [Supply Video1](https://youtu.be/QRQFf7kP7Zo)
+- [Supply Video2](https://youtu.be/XL2fsJj2BDk)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HASEL</div><img src='images/HASEL.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 **Design and Characteristics of A Hydraulic Amplification-Based Soft-Exoskeleton Robotic Module**
 - Specially designed the casting mold to adapt to different application scenarios
@@ -109,6 +131,8 @@ J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Re
 
 
 # 💻 Internships
+- *2023.01 - 2023.09*, [Research Assistant] Shenzhen Research Institute, The Chinese University of Hong Kong, Hong Kong. Supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang), PI of [MMLab](http://www.labren.org/mm/)
+
 - *2022.06 - 2022.10*, [Summer Research Intern] Dept of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong. Supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang), PI of [MMLab](http://www.labren.org/mm/)
 
 - *2021.12 - now*, [Research Intern], [Institute of AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/index.htm), Tsinghua University, Beijing. Supervised by [Prof. Guyue Zhou](https://air.tsinghua.edu.cn/en/info/1046/1196.htm), PI of AIR DISCOVER Lab.

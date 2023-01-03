@@ -85,7 +85,7 @@ J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Re
 <div class='paper-box-text' markdown="1">
 
 **Sim2Real Transfer of ARX-5s robot (a 6-DOF robotic arm)**
-- [Supply Video](https://youtu.be/3UGTcBENg5Y)
+- [Supply Video](https://youtu.be/jVsMxDsDUM4)
 - [Robotics Arm Dancing](https://www.youtube.com/watch?v=NW4ZE4y-8hU)
 </div>
 </div>

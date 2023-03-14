@@ -36,6 +36,10 @@ I am currently a Final-Year undergraduate student in Robotics Engineering at the
 
 </div>  
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Real Machine</div><img src='images/onecable.gif' alt="sym" width="100%"> </div></div>
+
+</div>  
+
 
 # 📝 Publications
 

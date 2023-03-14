@@ -28,6 +28,15 @@ I am currently a Final-Year undergraduate student in Robotics Engineering at the
 - *2022.05*: &nbsp;🎉🎉 Won the Third Prize at [ICRA2022 RoboMaster University Sim2Real Challenge](https://air.tsinghua.edu.cn/robomaster/sim2real_icra22.html)!
 - *2022.05*: &nbsp;🎉🎉 Won the Meritorious Award at [2022 Mathematical Contest in Modeling (MCM2022)](https://www.comap.com/contests/mcm-icm)!
 
+# 📝 Ongoing Project
+
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">CAD</div><img src='images/ONE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">Real Machine</div><img src='images/onecable.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">SOFA Simulation</div><img src='images/onesim.gif' alt="sym" width="100%"></div></div>
+</div>
+
 
 
 # 📝 Publications
@@ -48,8 +57,7 @@ J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Re
 </div>
 </div>
 
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/domain.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/domain.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs**
@@ -58,9 +66,8 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 
 - Contribute the simulation data and test the performance
 
-
 </div>
-</div> -->
+</div>
 
 # 💬 Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cruising</div><img src='images/crusing.gif' alt="sym" width="100%"></div></div>

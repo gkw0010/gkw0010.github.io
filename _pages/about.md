@@ -19,7 +19,8 @@ redirect_from:
 
 🔥Welcome to My Page!🔥
 I am currently a Final-Year undergraduate student in Robotics Engineering at the [College of Mechanical and Electrical Engineering](https://mech.buct.edu.cn/en_mech/main.htm), Beijing University of Chemical Technology (BUCT). My research interests include soft robots, robot navigation, robot learning, medical mechatronics, and healthcare robots.
-<img src='images/my.jpg' alt="sym" width="75%">
+
+<img src="images/my.jpg" alt="sym" width="75%" style="display: block; margin: 0 auto;">
 
 
 # 🔥 News
@@ -35,6 +36,14 @@ I am currently a Final-Year undergraduate student in Robotics Engineering at the
 <div class='paper-box-image'><div><div class="badge">CAD</div><img src='images/ONE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-image'><div><div class="badge">Real Machine</div><img src='images/onecable.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-image'><div><div class="badge">SOFA Simulation</div><img src='images/onesim.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**OneCable Continuum Robot Project**
+
+
+- Using only one cable to achieve 3 motions: Pushing, Pulling and Twisting
+- Will submit to a top-tier journal!
+
 </div>
 
 

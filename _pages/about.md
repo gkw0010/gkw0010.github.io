@@ -19,7 +19,7 @@ redirect_from:
 
 🔥Welcome to My Page!🔥
 I am currently a Final-Year undergraduate student in Robotics Engineering at the [College of Mechanical and Electrical Engineering](https://mech.buct.edu.cn/en_mech/main.htm), Beijing University of Chemical Technology (BUCT). My research interests include soft robots, robot navigation, robot learning, medical mechatronics, and healthcare robots.
-<img src='images/my.jpg' align="middle" alt="sym" width="75%">
+<img src='images/my.jpg' alt="sym" width="75%" style="display: block; margin: 0 auto;">
 
 
 # 🔥 News
@@ -49,7 +49,7 @@ J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Re
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/sim2.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/domain.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs**

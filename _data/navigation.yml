@@ -6,9 +6,6 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Ongoing"
-    url: "/#-Ongoing"
-
   - title: "Publications"
     url: "/#-publications"
 

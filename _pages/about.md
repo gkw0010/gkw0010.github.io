@@ -19,8 +19,7 @@ redirect_from:
 
 🔥Welcome to My Page!🔥
 I am currently a Final-Year undergraduate student in Robotics Engineering at the [College of Mechanical and Electrical Engineering](https://mech.buct.edu.cn/en_mech/main.htm), Beijing University of Chemical Technology (BUCT). My research interests include soft robots, robot navigation, robot learning, medical mechatronics, and healthcare robots.
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Welcome!</div><img src='images/my.jpg' alt="sym" align='middle' width="100%"></div></div>
-
+<img src='images/my.jpg' alt="sym" width="100%">
 
 
 # 🔥 News 

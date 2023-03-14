@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
+Welcome to my Page!🔥
 I am currently a Final-Year undergraduate student in Robotics Engineering at the [College of Mechanical and Electrical Engineering](https://mech.buct.edu.cn/en_mech/main.htm), Beijing University of Chemical Technology (BUCT). My research interests include soft robots, robot navigation, robot learning, medical mechatronics, and healthcare robots.
+<img src='images/my.jpg' alt="sym" width="100%">
 
 
 # 🔥 News
 - *2023.01*: &nbsp;🎉🎉 After my summer internship, I'm working as Research Assistant supervised by Prof. Hongliang Ren in CUHK-SZRI!
 - *2022.10*: &nbsp;🎉🎉 After my summer internship, one of my co-first authored papers has been finally submitted to a top-tier IEEE Transactions Journal and is currently under review!
-- *2022.05*: &nbsp;🎉🎉 Won the Third Prize at [ICRA2022 RoboMaster University Sim2Real Challenge](https://air.tsinghua.edu.cn/robomaster/sim2real_icra22.html
-- )!
+- *2022.05*: &nbsp;🎉🎉 Won the Third Prize at [ICRA2022 RoboMaster University Sim2Real Challenge](https://air.tsinghua.edu.cn/robomaster/sim2real_icra22.html)!
 - *2022.05*: &nbsp;🎉🎉 Won the Meritorious Award at [2022 Mathematical Contest in Modeling (MCM2022)](https://www.comap.com/contests/mcm-icm)!
 
  

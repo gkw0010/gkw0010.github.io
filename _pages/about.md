@@ -31,7 +31,7 @@ I am currently a Final-Year undergraduate student in Robotics Engineering at the
  
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII 1st round Review</div><img src='images/sim2.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII 1st Round Review</div><img src='images/sim2.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Sim-to-Real Method for Soft Robotic Navigation (To be Revealed)**

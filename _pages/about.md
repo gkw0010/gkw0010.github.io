@@ -49,7 +49,7 @@ J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Re
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/domain.gif' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/domain.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs**
@@ -60,7 +60,7 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 
 
 </div>
-</div>
+</div> -->
 
 # 💬 Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cruising</div><img src='images/crusing.gif' alt="sym" width="100%"></div></div>

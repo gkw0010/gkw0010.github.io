@@ -53,7 +53,7 @@ I am currently a Final-Year undergraduate student in Robotics Engineering at the
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII 1st Round Review</div><img src='images/sim2.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Sim-to-Real Method for Soft Robotic Navigation (To be Revealed)**
+**A Sim-to-Real Method for Soft Robotic Navigation That Learns from the Virtual Eye-in-Hand Vision**
 
 J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Ren
 
@@ -143,8 +143,17 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">Intro PouchJacket</div><img src='images/pounchPic.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">Intro PouchJacket</div><img src='images/pounchPic.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-image'><div><div class="badge">Simulation</div><img src='images/pounch.gif' alt="sym" width="100%"></div></div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tensegrity Robot</div><img src='images/rod.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+**Tensegrity Robot Simulation(2 rods)**
+
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPR Model</div><img src='images/mcm.jpg' alt="sym" width="100%"></div></div>

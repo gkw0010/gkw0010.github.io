@@ -28,9 +28,10 @@ I am currently a Final-Year undergraduate student in Robotics Engineering at the
 - *2022.05*: &nbsp;🎉🎉 Won the Third Prize at [ICRA2022 RoboMaster University Sim2Real Challenge](https://air.tsinghua.edu.cn/robomaster/sim2real_icra22.html)!
 - *2022.05*: &nbsp;🎉🎉 Won the Meritorious Award at [2022 Mathematical Contest in Modeling (MCM2022)](https://www.comap.com/contests/mcm-icm)!
 
+
 # 📝 Ongoing
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD</div><img src='images/ONE.png' alt="sym" width="100%"><div class="badge">Real Machine</div><img src='images/onecable.git' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD</div><img src='images/ONE.png' alt="sym" width="100%"><div class="badge">Real Machine</div><img src='images/onecable.gif' alt="sym" width="100%"></div></div>
 
 </div>  
 

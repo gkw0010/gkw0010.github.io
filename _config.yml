@@ -8,6 +8,7 @@
 # Site Settings
 title                    : "Tian-Ao Ren (Teo)"
 description              : "Robot Control, Soft Robot, Robot Navigation"
+GPA                      : "GPA: 90.8/100 Rank: 1/245"
 repository               : "TeoREN0217/TeoREN0217.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +25,6 @@ author:
   name             : "Tian-Ao Ren (Teo)"
   avatar           : "images/android-chrome-384x384.png"
   bio              : "B.Eng.@BUCT (2019-2023)"
-  GPA              : "GPA: 90.8/100 Rank: 1/245"
   location         : "Beijing, China"
   employer         :
   pubmed           : 

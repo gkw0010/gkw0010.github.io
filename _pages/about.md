@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-🔥Welcome to My Page!🔥
+🔥**Welcome to My Page!**🔥
 I am currently a Final-Year undergraduate student in Robotics Engineering at the [College of Mechanical and Electrical Engineering](https://mech.buct.edu.cn/en_mech/main.htm), Beijing University of Chemical Technology (BUCT). My research interests include soft robots, robot navigation, robot learning, medical mechatronics, and healthcare robots.
 
-<img src="images/my.jpg" alt="sym" width="75%" style="display: block; margin: 0 auto;">
+<img src="images/my.jpg" alt="sym" width="50%" style="display: block; margin: 0 auto;">
 
 
 # 🔥 News
@@ -43,7 +43,7 @@ I am currently a Final-Year undergraduate student in Robotics Engineering at the
 
 - Using only one cable to achieve 3 motions: Pushing, Pulling and Twisting
 - Will submit to a top-tier journal!
-
+</div>
 </div>
 
 
@@ -139,6 +139,12 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 - Simulated the deformation of soft beam with pneumatic-HASELs and the assembled soft gripper in SOFA
 
 </div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">Intro PouchJacket</div><img src='images/pounchPic.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">Simulation</div><img src='images/pounch.gif' alt="sym" width="100%"></div></div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPR Model</div><img src='images/mcm.jpg' alt="sym" width="100%"></div></div>

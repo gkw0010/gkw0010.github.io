@@ -31,10 +31,10 @@ I am currently a Final-Year undergraduate student in Robotics Engineering at the
  
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/sim2.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII 1st round Review</div><img src='images/sim2.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Sim-to-Real Method for Soft Robotic Navigation (To be Revealed)**
+**Sim-to-Real Method for Soft Robotic Navigation That Learns from the Virtual Eye-in-Hand Vision**
 
 J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Ren
 
@@ -43,9 +43,22 @@ J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Re
 - Closed-loop soft robot navigation with that **learns** from the virtual eye-in-hand vision
 - [Supply Video](https://youtu.be/vQ4xzFM9iwk)
 <!-- [Preprint](https://arxiv.org/abs/2206.11804) \| [Demo](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation) -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/domain.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs**
+
+Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
+
+- Under Review
+- Contribute the simulation data and test the performance in this project.
 
 </div>
 </div>
+
 
 # 💬 Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cruising</div><img src='images/crusing.gif' alt="sym" width="100%"></div></div>

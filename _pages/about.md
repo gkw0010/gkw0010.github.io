@@ -121,14 +121,6 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Composite Robot</div><img src='images/composite.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Cooperative composite bipedal wheel-legged robot model with a 6-DOF arm in Isaac SIM**
-- [Supply Video1](https://youtu.be/QRQFf7kP7Zo)
-- [Supply Video2](https://youtu.be/XL2fsJj2BDk)
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HASEL</div><img src='images/HASEL.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -170,7 +162,7 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 - *2021-2022* National Scholarship of China (**TOP 0.2% in China**)
 - *2019-2020* Li Wen & Yang Yan Scholarship (**TOP 1/3870 in Class 2023 of BUCT**)
 - *2020-2021* Jinfa Technological Scholarship (**TOP 0.5% in College of Mechanical and Electrical Engineering**)  
-- *2021-2022* First Prize Scholarship of BUCT (**Twice**) 
+- *2021-2022* First Prize Scholarship of BUCT  
 
 # 📖 Educations
 - *2019.09 - 2023.07 (now)*, B.Eng., Robotics Engineering, Beijing University of Chemical Technology, Beijing, China

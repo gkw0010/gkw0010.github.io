@@ -160,7 +160,7 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 
 # 🎖 Honors and Awards
 - *2021-2022* National Scholarship of China (**TOP 0.2% in China**)
-- *2019-2020* Li Wen & Yang Yan Scholarship (**TOP 1/3870 in Class 2023 of BUCT**)
+- *2019-2020* Li Wen & Yang Yan Scholarship (**TOP 1**)
 - *2020-2021* Jinfa Technological Scholarship (**TOP 0.5% in College of Mechanical and Electrical Engineering**)  
 - *2021-2022* First Prize Scholarship of BUCT  
 

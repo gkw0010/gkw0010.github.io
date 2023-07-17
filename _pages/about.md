@@ -27,7 +27,7 @@ I am currently a first-Year Master student in the [Department of Mechanical Engi
 # 🔥 News
 - *2023.07*: &nbsp;🎉🎉 My first paper as a co-first author "Sim-to-Real Transfer of Soft Robotic Navigation Strategies That Learns from the Virtual Eye-in-Hand Vision" has been published on IEEE TII!
 - *2023.07*: &nbsp;🎉🎉 Our work "Sim-to-Real Segmentation in Robot-assisted Transoral Tracheal Intubation" win the Best Poster Award at ICRA 2023 Workshop!
-- *2022.07*: &nbsp;🎉🎉 Our work "Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs" has been published on MBEC！
+- *2023.07*: &nbsp;🎉🎉 Our work "Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs" has been published on MBEC！
 
 <!-- # 📝 Ongoing Project
 
@@ -53,7 +53,7 @@ I am currently a first-Year Master student in the [Department of Mechanical Engi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII</div><img src='images/sim2.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**A Sim-to-Real Method for Soft Robotic Navigation That Learns from the Virtual Eye-in-Hand Vision**
+**Sim-to-Real Transfer of Soft Robotic Navigation Strategies That Learns From the Virtual Eye-in-Hand Vision**
 
 J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Ren
 
@@ -148,19 +148,19 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPR Model</div><img src='images/mcm.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPR Model</div><img src='images/mcm.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Bitcon or Gold? --- An investment strategy of IPR(Imatation-Prediction-Risk) model based on ARIMA**
 - Compared ARIMA and LSTM models, resulted in ARIMA achieving better accuracy, even when adding the less effective LSTM model to our Imitation model and Risk model.
 
 </div>
-</div>
+</div> -->
 
 
 # 🎖 Honors and Awards
-- * 2023.07 * **Best Poster Award at ICRA 2023 Workshop**
-- * 2023.07 * **Outstanding Graduates in Beijing** 
+- *2023.07* **Best Poster Award at ICRA 2023 Workshop**
+- *2023.07* **Outstanding Graduates in Beijing** 
 - *2021-2022* National Scholarship of China (**TOP 0.2% in China**)
 - *2019-2020* Li Wen & Yang Yan Scholarship (**TOP 1**)
 - *2020-2021* Jinfa Technological Scholarship (**TOP 0.5% in College of Mechanical and Electrical Engineering**)  
@@ -174,6 +174,6 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 # 💻 Internships
 - *2023.01 - 2023.09*, [Research Assistant] Shenzhen Research Institute, The Chinese University of Hong Kong, Hong Kong. Supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang), PI of [MMLab](http://www.labren.org/mm/)
 
-- *2022.06 - 2022.10*, [Summer Research Intern] Dept of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong. Supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang), PI of [MMLab](http://www.labren.org/mm/)
+- *2022.06 - 2022.12*, [Summer Research Intern] Dept of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong. Supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang), PI of [MMLab](http://www.labren.org/mm/)
 
-- *2021.12 - now*, [Research Intern], [Institute of AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/index.htm), Tsinghua University, Beijing. Supervised by [Prof. Guyue Zhou](https://air.tsinghua.edu.cn/en/info/1046/1196.htm), PI of AIR DISCOVER Lab.
+- *2021.12 - 2023.05*, [Research Intern], [Institute of AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/index.htm), Tsinghua University, Beijing. Supervised by [Prof. Guyue Zhou](https://air.tsinghua.edu.cn/en/info/1046/1196.htm), PI of AIR DISCOVER Lab.

@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 🔥**Welcome to My Page!**🔥
-I am currently a first-Year Master student in the [Department of Mechanical Engineering](https://me.stanford.edu) at **Stanford University**.I received my Bachelor degree in Robotics Engineering at the [College of Mechanical and Electrical Engineering](https://mech.buct.edu.cn), Beijing University of Chemical Technology (BUCT). My research interests include soft robots, robot navigation, robot learning, medical mechatronics, and healthcare robots.
+
+I am currently a first-Year Master student in the [Department of Mechanical Engineering](https://me.stanford.edu) at **Stanford University**. I received my Bachelor degree in Robotics Engineering at the [College of Mechanical and Electrical Engineering](https://mech.buct.edu.cn), Beijing University of Chemical Technology (BUCT). My research interests include soft robots, robot navigation, robot learning, medical mechatronics, and healthcare robots.
 
 <!-- <img src="images/my.jpg" alt="sym" width="50%" style="display: block; margin: 0 auto;"> -->
 
@@ -158,8 +159,8 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 
 
 # 🎖 Honors and Awards
-- *2023.07* Best Poster Award at ICRA 2023 Workshop
-- *2023.07* Outstanding Graduates in Beijing 
+- * 2023.07 * **Best Poster Award at ICRA 2023 Workshop**
+- * 2023.07 * **Outstanding Graduates in Beijing** 
 - *2021-2022* National Scholarship of China (**TOP 0.2% in China**)
 - *2019-2020* Li Wen & Yang Yan Scholarship (**TOP 1**)
 - *2020-2021* Jinfa Technological Scholarship (**TOP 0.5% in College of Mechanical and Electrical Engineering**)  

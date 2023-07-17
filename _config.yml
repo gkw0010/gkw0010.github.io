@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Tian-Ao Ren (Teo)"
-  avatar           : "images/Stanford.png"
-  bio              : "B.Eng.@BUCT (2019-2023) GPA: 90.8/100"
-  location         : "Beijing, China"
+  avatar           : "images/Stanford.jpg"
+  bio              : "Master Student at Stanford University"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
@@ -40,7 +40,7 @@ author:
   github           : "TeoREN0217"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "teoren0217"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : #"tianao-ren"

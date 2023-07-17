@@ -18,16 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 🔥**Welcome to My Page!**🔥
-I am currently a Final-Year undergraduate student in Robotics Engineering at the [College of Mechanical and Electrical Engineering](https://mech.buct.edu.cn/en_mech/main.htm), Beijing University of Chemical Technology (BUCT). My research interests include soft robots, robot navigation, robot learning, medical mechatronics, and healthcare robots.
+I am currently a first-Year Master student in the [Department of Mechanical Engineering](https://me.stanford.edu) at **Stanford University**.I received my Bachelor degree in Robotics Engineering at the [College of Mechanical and Electrical Engineering](https://mech.buct.edu.cn), Beijing University of Chemical Technology (BUCT). My research interests include soft robots, robot navigation, robot learning, medical mechatronics, and healthcare robots.
 
-<img src="images/my.jpg" alt="sym" width="50%" style="display: block; margin: 0 auto;">
+<!-- <img src="images/my.jpg" alt="sym" width="50%" style="display: block; margin: 0 auto;"> -->
 
 
 # 🔥 News
-- *2023.01*: &nbsp;🎉🎉 After my summer internship, I'm working as Research Assistant supervised by Prof. Hongliang Ren in CUHK-SZRI!
-- *2022.10*: &nbsp;🎉🎉 After my summer internship, one of my co-first authored papers has been finally submitted to a top-tier IEEE Transactions Journal and is currently under review!
-- *2022.05*: &nbsp;🎉🎉 Won the Third Prize at [ICRA2022 RoboMaster University Sim2Real Challenge](https://air.tsinghua.edu.cn/robomaster/sim2real_icra22.html)!
-- *2022.05*: &nbsp;🎉🎉 Won the Meritorious Award at [2022 Mathematical Contest in Modeling (MCM2022)](https://www.comap.com/contests/mcm-icm)!
+- *2023.07*: &nbsp;🎉🎉 My first paper as a co-first author "Sim-to-Real Transfer of Soft Robotic Navigation Strategies That Learns from the Virtual Eye-in-Hand Vision" has been published on IEEE TII!
+- *2023.07*: &nbsp;🎉🎉 Our work "Sim-to-Real Segmentation in Robot-assisted Transoral Tracheal Intubation" win the Best Poster Award at ICRA 2023 Workshop!
+- *2022.07*: &nbsp;🎉🎉 Our work "Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs" has been published on MBEC！
 
 <!-- # 📝 Ongoing Project
 
@@ -50,7 +49,7 @@ I am currently a Final-Year undergraduate student in Robotics Engineering at the
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII 1st Round Review</div><img src='images/sim2.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII</div><img src='images/sim2.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A Sim-to-Real Method for Soft Robotic Navigation That Learns from the Virtual Eye-in-Hand Vision**
@@ -66,7 +65,7 @@ J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Re
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/domain.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MBEC</div><img src='images/domain.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs**
@@ -159,13 +158,16 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 
 
 # 🎖 Honors and Awards
+- *2023.07* Best Poster Award at ICRA 2023 Workshop
+- *2023.07* Outstanding Graduates in Beijing 
 - *2021-2022* National Scholarship of China (**TOP 0.2% in China**)
 - *2019-2020* Li Wen & Yang Yan Scholarship (**TOP 1**)
 - *2020-2021* Jinfa Technological Scholarship (**TOP 0.5% in College of Mechanical and Electrical Engineering**)  
 - *2021-2022* First Prize Scholarship of BUCT  
 
 # 📖 Educations
-- *2019.09 - 2023.07 (now)*, B.Eng., Robotics Engineering, Beijing University of Chemical Technology, Beijing, China
+- *2023.09 - 2025.07(expected)*, M.S., Mechanical Engineering, Stanford University, California, U.S.
+- *2019.09 - 2023.07*, B.Eng., Robotics Engineering, Beijing University of Chemical Technology, Beijing, China
 
 
 # 💻 Internships

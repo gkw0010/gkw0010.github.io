@@ -91,6 +91,8 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 - IMU-Gravity-SOFA-Real-machine Performance -->
 </div>
 </div>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Final Year Project</div><img src='images/fyp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

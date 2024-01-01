@@ -79,6 +79,19 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 </div>
 
 # 💬 Projects
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CharmLab 23Fall</div><img src='images/charm23fall.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Wearable for High Precision Elbow Angle Measurement**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CharmLab 23Fall</div><img src='images/charm23fall.png' alt="sym" width="100%"></div></div>
+
+<!-- - Designed a 7-driven soft robot: 6 cable-driven actuator and 1 Sliding actuator
+- Work on simulation, design, embedded coding and communication to build a Sim2Real verify platform
+- Build a real machine to verify the feasibility of the platform
+- IMU-Gravity-SOFA-Real-machine Performance -->
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Final Year Project</div><img src='images/fyp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

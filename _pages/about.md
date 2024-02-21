@@ -25,9 +25,9 @@ I am currently a first-Year Master student in the [Department of Mechanical Engi
 
 
 # 🔥 News
-- *2023.07*: &nbsp;🎉🎉 My first paper as a co-first author "Sim-to-Real Transfer of Soft Robotic Navigation Strategies That Learns from the Virtual Eye-in-Hand Vision" has been published on IEEE TII!
-- *2023.07*: &nbsp;🎉🎉 Our work "Sim-to-Real Segmentation in Robot-assisted Transoral Tracheal Intubation" win the Best Poster Award at ICRA 2023 Workshop!
-- *2023.07*: &nbsp;🎉🎉 Our work "Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs" has been published on MBEC！
+- *2023.07*: &nbsp;🎉🎉 My first paper as a co-first author "Sim-to-Real Transfer of Soft Robotic Navigation Strategies That Learns from the Virtual Eye-in-Hand Vision" has been published on **IEEE Transactions on Industrial Informatics**!
+- *2023.07*: &nbsp;🎉🎉 Our work "Sim-to-Real Segmentation in Robot-assisted Transoral Tracheal Intubation" win the **Best Poster Award** at ICRA 2023 Workshop!
+- *2023.07*: &nbsp;🎉🎉 Our work "Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs" has been published on **MBEC**！
 
 <!-- # 📝 Ongoing Project
 
@@ -101,6 +101,21 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 - IMU-Gravity-SOFA-Real-machine Performance
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Final Year Project</div><img src='images/fyp_sim2real.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**A SOFA-based Sim2Real System that can Verify Soft Continuum Robot Fast**
+- Calibrate sim2real Gap
+- Socket-UDP/CAN BUS/Serial Port to build the communication system
+- Kinematics and dynamics of soft robots can be quickly verified
+- Video Speed 15x
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cruising</div><img src='images/crusing.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

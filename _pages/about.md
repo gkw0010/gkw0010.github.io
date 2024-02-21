@@ -60,11 +60,19 @@ J. Lai, **T.-A. Ren (Co-first author)**, W. Yue, S. Su, J. Y. K. Chan, and H. Re
 - Medical scene 3D reconstruction in [SOFA Framework](https://www.sofa-framework.org/)
 - Soft robot modeling and navigation with [SOFTROBOTS plugin](https://project.inria.fr/softrobot/)
 - Closed-loop soft robot navigation with that **learns** from the virtual eye-in-hand vision
-- [Supply Video](https://youtu.be/vQ4xzFM9iwk)
-<!-- [Preprint](https://arxiv.org/abs/2206.11804) \| [Demo](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation) -->
+- [Supply Video](https://youtu.be/vQ4xzFM9iwk)\| [Paper](https://ieeexplore.ieee.org/abstract/document/10171986)
+<!-- -  \| [Demo](https://github.com/lofrienger/Single_SurgicalScene_For_Segmentation) -->
 
 </div>
 </div>
+
+<!-- <div class='paper-box'> -->
+<div class='paper-box' style="display: flex; justify-content: space-between;">
+<div class='paper-box-image'><div><div class="badge">Experiment Setup</div><img src='images/Experiment_Setup.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">Autonomous Navigation</div><img src='images/Autonomous_Navigation.gif' alt="sym" width="100%"></div></div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MBEC</div><img src='images/domain.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

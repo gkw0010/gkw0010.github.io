@@ -180,8 +180,8 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 </div>
 
 <div class='paper-box' style="display: flex; justify-content: space-between;">
-<div class='paper-box-image'style="width: 49%;"><div><div class="badge">Intro PouchJacket</div><img src='images/pounchPic.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-image'style="width: 49%;"><div><div class="badge">Simulation</div><img src='images/pounch.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-image' style="width: 49%;"><div><div class="badge">Intro PouchJacket</div><img src='images/pounchPic.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-image' style="width: 49%;"><div><div class="badge">Simulation</div><img src='images/pounch.gif' alt="sym" width="100%"></div></div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tensegrity Robot</div><img src='images/rod.gif' alt="sym" width="100%"></div></div>

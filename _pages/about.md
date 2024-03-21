@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-🔥**Welcome to My Page!**🔥
+I am currently a Junior Research Assistant at Department of Electronic Engineering, The Chinese University of Hong Kong, advised by Prof. Hongliang Ren. I collaborate closely with Long Bai at our MEDICAL MECHATRONICS Lab. From this August, I will be a Ph.D. student for the CUHK-HUAWEI Joint PhD Program. Previously, I received the M. Sc. degree in Department of Electronic Engineering from The Chinese University of Hong Kong in 2022, advised by Prof. Hongliang Ren. I also received my Bachelor degree in Automation at College of Mechatronics and Engineering, Shenzhen University, advised by Prof. Xiaopin Zhong.
+My research interests include computer vision and its applications in medical image analysis and surgical robotic perception. I recently work on large vision-language models and downstream surgical robot control.
 
-I am currently a first-Year Master student in the [Department of Mechanical Engineering](https://me.stanford.edu) at **Stanford University**. I received my Bachelor degree in Robotics Engineering at the [College of Mechanical and Electrical Engineering](https://mech.buct.edu.cn), Beijing University of Chemical Technology (BUCT). My research interests include soft robots, robot navigation, robot learning, medical mechatronics, and healthcare robots.
 
 <!-- <img src="images/my.jpg" alt="sym" width="50%" style="display: block; margin: 0 auto;"> -->
 

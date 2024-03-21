@@ -25,9 +25,10 @@ My research interests include computer vision and its applications in medical im
 
 
 # 🔥 News
-- *2023.07*: &nbsp;🎉🎉 My first paper as a co-first author "Sim-to-Real Transfer of Soft Robotic Navigation Strategies That Learns from the Virtual Eye-in-Hand Vision" has been published on **IEEE Transactions on Industrial Informatics**!
-- *2023.07*: &nbsp;🎉🎉 Our work "Sim-to-Real Segmentation in Robot-assisted Transoral Tracheal Intubation" win the **Best Poster Award** at ICRA 2023 Workshop!
-- *2023.07*: &nbsp;🎉🎉 Our work "Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs" has been published on **MBEC**！
+- *2024.03*: &nbsp;🎉🎉 I receive the offer from CUHK Graduate School for CUHK-HUAWEI Joint PhD Program!
+- *2024.02*: &nbsp;🎉🎉 Our work "EndoOOD: Uncertainty-aware Out-of-distribution Detection in Capsule Endoscopy Diagnosis" is accepted by [**ISBI 2024**](https://biomedicalimaging.org/2024/)!
+- *2024.01*: &nbsp;🎉🎉 Our work "OSSAR: Towards Open-Set Surgical Activity Recognition in Robot-assisted Surgery" is accepted by [**ICRA 2024**](https://2024.ieee-icra.org/)!
+- *2024.01*: &nbsp;🎉🎉 Our work "Mask focal loss: a unifying framework for dense crowd counting with canonical object detection networks" has been published on [**Multimedia Tools and Applications**](https://link.springer.com/journal/11042)!
 
 <!-- # 📝 Ongoing Project
 

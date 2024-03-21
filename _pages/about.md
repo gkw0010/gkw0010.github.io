@@ -21,9 +21,6 @@ I am currently a Junior Research Assistant at [Department of Electronic Engineer
 
 My research interests include computer vision and its applications in medical image analysis and surgical robotic perception. I recently work on large vision-language models and downstream surgical robot control.
 
-[SOFA Framework](https://www.sofa-framework.org/)
-
-
 <!-- <img src="images/my.jpg" alt="sym" width="50%" style="display: block; margin: 0 auto;"> -->
 
 

@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tian-Ao Ren (Teo)"
-description              : "Robot Control, Soft Robot, Robot Navigation"
-repository               : "TeoREN0217/TeoREN0217.github.io"
+title                    : "Guankun Wang"
+description              : "Medical Image Analysis, Large Vision-Langeage Model, Robot Control"
+repository               : "gkw0010/gkw0010.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Tian-Ao Ren (Teo)"
-  avatar           : "images/Stanford.jpg"
-  bio              : "M.S.@Stanford University"
+  avatar           : "images/wgk.png"
+  bio              : "CUHK Ph.D. Student"
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=9UbQA4IAAAAJ&hl=en&oi=ao"
-  email            : "rta78294997@outlook.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Z27F8gkAAAAJ&hl=en"
+  email            : "gkwang@link.cuhk.edu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "TeoREN0217"
+  github           : "gkw0010"
   google_plus      :
   keybase          :
-  instagram        : "superteo0217"
+  # instagram        : "superteo0217"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "tianao-ren-2a0349220"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0008-5125-0209"
+  # orcid            : "https://orcid.org/0009-0008-5125-0209"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

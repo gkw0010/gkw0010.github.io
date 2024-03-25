@@ -63,9 +63,6 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 </div>
 </div>
 
-//# 💬 Projects
-
-
 
 # 🎖 Honors and Awards
 - *2023.07* **Best Poster Award at ICRA 2023 Workshop**
@@ -79,5 +76,4 @@ Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
 
 # 💻 Work Experience
 - *2023.09 - now*, [Junior Research Assistant] Department of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong. Supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang).
-- 
 - *2021.07 - 2021.12*, [Application Engineer Intern] Research and Development Department, DAS Intelligence, Shenzhen, China.

@@ -7,14 +7,14 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-Selected Publications [Find full list at Google Scholar]"
+    url: "/#publications"
 
   - title: "Honors and Awards"
-    url: "/#-selected awards"
+    url: "/#awards"
 
   - title: "Educations"
     url: "/#-educations"
 
 
   - title: "Work Experience"
-    url: "/#-work experience"
+    url: "/#work"

@@ -70,8 +70,7 @@ Medical & Biological Engineering & Computing (MBEC), 2023. (IF: 3.2)
 
 **Sim-to-Real Segmentation in Robot-assisted Transoral Tracheal Intubation**
 **Guankun Wang**, Tian-Ao Ren, Jiewen Lai, Long Bai, Hongliang Ren*
-IEEE International Conference on Robotics and Automation (ICRA 2023), Workshop on New Evolutions in Surgical Robotics.
-<font color="red">Best Poster Award</font>
+IEEE International Conference on Robotics and Automation (ICRA 2023), Workshop on New Evolutions in Surgical Robotics. <font color="red">Best Poster Award</font>
 
 **Mask Focal Loss: A unifying framework for dense crowd counting with canonical object detection networks**
 Xiaopin Zhong, **Guankun Wang**, Weixiang Liu*, Zongze Wu, Yuanlong Deng
@@ -79,8 +78,7 @@ Multimedia Tools and Applications (MTAP), Accepted, 2023. (IF: 3.6)
 
 **An Improved FairMOT Method for Crowd Tracking and Counting in Subway Passages**
 **Guankun Wang**, Yongze Yang, Xiaopin Zhong*, Yang Yang
-IEEE International Conference on Intelligent Transportation Engineering (ICITE 2021).
-<font color="red">Best Student Paper Award</font>
+IEEE International Conference on Intelligent Transportation Engineering (ICITE 2021). <font color="red">Best Student Paper Award</font>
 
 
 # 🎖 Selected Awards

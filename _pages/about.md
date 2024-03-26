@@ -48,7 +48,7 @@ My research interests include computer vision and its applications in medical im
 </div>
  -->
 
-
+<span class='anchor' id='publications'></span>
 # 📝 Selected Publications [Find full list at Google Scholar]
 † indicates equal contribution; * represents the corresponding authors.
 
@@ -80,7 +80,7 @@ Multimedia Tools and Applications (MTAP), Accepted, 2023. (IF: 3.6)
 **Guankun Wang**, Yongze Yang, Xiaopin Zhong*, Yang Yang
 IEEE International Conference on Intelligent Transportation Engineering (ICITE 2021). <font color="red">Best Student Paper Award</font>
 
-
+<span class='anchor' id='awards'></span>
 # 🎖 Selected Awards
 - *2023.11* **HAMEN FAN SCHOLARSHIP for M.Sc.in ELECTRONIC ENGINEERING**
 - *2023.11* **Dean's List 2022-2023**
@@ -94,7 +94,7 @@ IEEE International Conference on Intelligent Transportation Engineering (ICITE 2
 - *2022.09 - 2023.07, M. Sc., Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China
 - *2018.09 - 2022.07, B.Eng., Automation, Shenzhen University, Shenzhen, China
 
-
+<span class='anchor' id='work'></span>
 # 💻 Work Experience
 - *2023.09 - now*, [Junior Research Assistant] Department of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong. Supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang).
 - *2021.07 - 2021.12*, [Application Engineer Intern] Research and Development Department, DAS Intelligence, Shenzhen, China.

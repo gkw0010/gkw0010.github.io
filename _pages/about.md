@@ -52,9 +52,11 @@ My research interests include computer vision and its applications in medical im
 # 📝 Selected Publications [Find full list at Google Scholar]
 † indicates equal contribution; * represents the corresponding authors.
 
-**Towards Open-Set Surgical Activity Recognition in Robot-assisted Surgery**
-Long Bai†, **Guankun Wang†**, Jie Wang, Xiaoxiao Yang, Huxin Gao, Xin Liang, An Wang, Mobarakol Islam, 	Hongliang Ren*
-IEEE International Conference on Robotics and Automation (ICRA 2024). (CCF-B)
+- **Towards Open-Set Surgical Activity Recognition in Robot-assisted Surgery**
+
+  Long Bai†, **Guankun Wang†**, Jie Wang, Xiaoxiao Yang, Huxin Gao, Xin Liang, An Wang, Mobarakol Islam, 	Hongliang Ren*
+  
+  IEEE International Conference on Robotics and Automation (ICRA 2024). (CCF-B)
 
 **Uncertainty-aware Out-of-distribution Detection in Capsule Endoscopy Diagnosis**
 Qiaozhi Tan†, Long Bai†, **Guankun Wang†**, Mobarakol Islam, Hongliang Ren*

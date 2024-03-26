@@ -4,20 +4,17 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#-News"
 
   - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Projects"
-    url: "/#-projects"
+    url: "/#-Selected Publications [Find full list at Google Scholar]"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#-Selected Awards"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#-Educations"
 
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "/#-Work Experience"

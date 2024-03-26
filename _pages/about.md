@@ -49,27 +49,50 @@ My research interests include computer vision and its applications in medical im
  -->
 
 
-# 📝 Publications
+# 📝 Selected Publications [Find full list at Google Scholar]
+† indicates equal contribution; * represents the corresponding authors.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MBEC</div><img src='images/domain.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+**Towards Open-Set Surgical Activity Recognition in Robot-assisted Surgery**
+Long Bai†, **Guankun Wang†**, Jie Wang, Xiaoxiao Yang, Huxin Gao, Xin Liang, An Wang, Mobarakol Islam, 	Hongliang Ren*
+IEEE International Conference on Robotics and Automation (ICRA 2024). (CCF-B)
+
+**Uncertainty-aware Out-of-distribution Detection in Capsule Endoscopy Diagnosis**
+Qiaozhi Tan†, Long Bai†, **Guankun Wang†**, Mobarakol Islam, Hongliang Ren*
+IEEE International Symposium on Biomedical Imaging (ISBI 2024).
+
+**Rethinking Exemplars for Continual Semantic Segmentation in Endoscopy Scenes: Entropy-based Mini-Batch Pseudo-Replay**
+**Guankun Wang†**, Long Bai†, Yanan Wu, Tong Chen, Hongliang Ren*
+Computers in Biology and Medicine (CBM), 2023. (IF: 7.7)
 
 **Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs**
+**Guankun Wang**, Tian-Ao Ren, Jiewen Lai, Long Bai, and Hongliang Ren
+Medical & Biological Engineering & Computing (MBEC), 2023. (IF: 3.2)
 
-Guankun Wang, **Tian-Ao Ren**, Jiewen Lai, Long Bai, and Hongliang Ren
+**Sim-to-Real Segmentation in Robot-assisted Transoral Tracheal Intubation**
+**Guankun Wang**, Tian-Ao Ren, Jiewen Lai, Long Bai, Hongliang Ren*
+IEEE International Conference on Robotics and Automation (ICRA 2023), Workshop on New Evolutions in Surgical Robotics.
+<font color="red">Best Poster Award</font>
 
-- Contribute the simulation data and test the performance
+**Mask Focal Loss: A unifying framework for dense crowd counting with canonical object detection networks**
+Xiaopin Zhong, **Guankun Wang**, Weixiang Liu*, Zongze Wu, Yuanlong Deng
+Multimedia Tools and Applications (MTAP), Accepted, 2023. (IF: 3.6)
 
-</div>
-</div>
+**An Improved FairMOT Method for Crowd Tracking and Counting in Subway Passages**
+**Guankun Wang**, Yongze Yang, Xiaopin Zhong*, Yang Yang
+IEEE International Conference on Intelligent Transportation Engineering (ICITE 2021).
+<font color="red">Best Student Paper Award</font>
 
 
-# 🎖 Honors and Awards
+# 🎖 Selected Awards
+- *2023.11* **HAMEN FAN SCHOLARSHIP for M.Sc.in ELECTRONIC ENGINEERING**
+- *2023.11* **Dean's List 2022-2023**
 - *2023.07* **Best Poster Award at ICRA 2023 Workshop**
+- *2022.10* **Department Admission Scholarship**
+- *2022.07* **Outstanding Graduate Student**
 
 
 # 📖 Educations
-- *2024.08 - now, Ph.D., Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China
+- *Starting at 2024.08, Ph.D., Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China
 - *2022.09 - 2023.07, M. Sc., Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China
 - *2018.09 - 2022.07, B.Eng., Automation, Shenzhen University, Shenzhen, China
 

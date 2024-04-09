@@ -77,7 +77,7 @@ My research interests include computer vision and its applications in medical im
 
 # 📖 Educations
 - *Starting at 2024.08, Ph.D., Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China
-- *2022.09 - 2023.07, M. Sc., Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China
+- *2022.09 - 2023.07, M.Sc., Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China
 - *2018.09 - 2022.07, B.Eng., Automation, Shenzhen University, Shenzhen, China
 
 <span class='anchor' id='work'></span>

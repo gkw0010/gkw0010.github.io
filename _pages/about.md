@@ -74,7 +74,7 @@ My research interests include computer vision and its applications in medical im
 - *2022.10* **Department Admission Scholarship**
 - *2022.07* **Outstanding Graduate Student**
 
-
+<span class='anchor' id='work'></span>
 # 📖 Educations
 - *Starting at 2024.08, Ph.D., Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China
 - *2022.09 - 2023.07, M.Sc., Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China
@@ -84,3 +84,9 @@ My research interests include computer vision and its applications in medical im
 # 💻 Work Experience
 - *2023.09 - now*, [Junior Research Assistant] Department of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong. Supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang).
 - *2021.07 - 2021.12*, [Application Engineer Intern] Research and Development Department, DAS Intelligence, Shenzhen, China.
+
+<span class='anchor' id='work'></span>
+# 💬 Professional Services
+- Regular Journal Reviewer:
+  
+Image and Vision Computing

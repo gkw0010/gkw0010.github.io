@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Junior Research Assistant at [Department of Electronic Engineering](https://www.ee.cuhk.edu.hk/en-gb/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). I collaborate closely with [Long Bai](https://longbai-cuhk.github.io/) at our [MEDICAL MECHATRONICS Lab](http://www.labren.org/mm/lab/). From this August, I will be a Ph.D. student for the CUHK-HUAWEI Joint PhD Program. Previously, I received the M. Sc. degree in Department of Electronic Engineering from The Chinese University of Hong Kong in 2023, advised by Prof. Hongliang Ren. I also received my Bachelor degree in Automation at [College of Mechatronics and Control Engineering](https://cmce.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), advised by [Prof. Xiaopin Zhong](https://cmce.szu.edu.cn/info/1429/3795.htm).
+I am a Ph.D. student at [Department of Electronic Engineering](https://www.ee.cuhk.edu.hk/en-gb/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). I collaborate closely with [Long Bai](https://longbai-cuhk.github.io/) at our [MEDICAL MECHATRONICS Lab](http://www.labren.org/mm/lab/). Previously, I received the M. Sc. degree in Department of Electronic Engineering from The Chinese University of Hong Kong in 2023, advised by Prof. Hongliang Ren. I also received my Bachelor degree in Automation at [College of Mechatronics and Control Engineering](https://cmce.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), advised by [Prof. Xiaopin Zhong](https://cmce.szu.edu.cn/info/1429/3795.htm).
 
 My research interests include computer vision and its applications in medical image analysis and surgical robotic perception. I recently work on large vision-language models and downstream surgical robot control.
 
@@ -24,6 +24,8 @@ My research interests include computer vision and its applications in medical im
 
 
 # 🔥 News
+- *2024.08*: &nbsp;🎉🎉 One paper Surgical-VQLA++ is accepted by [**Information Fusion**](https://www.sciencedirect.com/science/article/pii/S1566253524003804) (IF: 14.7).
+- *2024.05*: &nbsp;🎉🎉 Our poster on surgical instrument tracking receives the Best Poster Award in [**ICRA 2024 C4SR+ Workshop**](https://sites.google.com/view/icra24-c4sr)!
 - *2024.03*: &nbsp;🎉🎉 I receive the offer from CUHK Graduate School for CUHK-HUAWEI Joint PhD Program!
 - *2024.02*: &nbsp;🎉🎉 Our work "EndoOOD: Uncertainty-aware Out-of-distribution Detection in Capsule Endoscopy Diagnosis" is accepted by [**ISBI 2024**](https://biomedicalimaging.org/2024/)!
 - *2024.01*: &nbsp;🎉🎉 Our work "OSSAR: Towards Open-Set Surgical Activity Recognition in Robot-assisted Surgery" is accepted by [**ICRA 2024**](https://2024.ieee-icra.org/)!
@@ -35,6 +37,9 @@ My research interests include computer vision and its applications in medical im
 # 📝 Selected Publications [Find full list at Google Scholar]
 
 † indicates equal contribution; * represents the corresponding authors.
+- **Surgical-VQLA++: Adversarial contrastive learning for calibrated robust visual question-localized answering in robotic surgery**<br>
+  Long Bai†, **Guankun Wang†**, Mobarakol Islam†, Lalithkumar Seenivasan, An Wang, Hongliang Ren*<br>
+  Information Fusion (IF), 2024. (IF: 14.7)
 
 - **Towards Open-Set Surgical Activity Recognition in Robot-assisted Surgery**<br>
   Long Bai†, **Guankun Wang†**, Jie Wang, Xiaoxiao Yang, Huxin Gao, Xin Liang, An Wang, Mobarakol Islam, 	Hongliang Ren*<br>
@@ -68,6 +73,7 @@ My research interests include computer vision and its applications in medical im
 
 <span class='anchor' id='awards'></span>
 # 🎖 Selected Awards
+- *2024.05* **Best Poster Award of ICRA 2024 C4SR+ Workshop**
 - *2023.11* **HAMEN FAN SCHOLARSHIP for M.Sc.in ELECTRONIC ENGINEERING**
 - *2023.11* **Dean's List 2022-2023**
 - *2023.07* **Best Poster Award at ICRA 2023 Workshop**
@@ -76,9 +82,9 @@ My research interests include computer vision and its applications in medical im
 
 <span class='anchor' id='work'></span>
 # 📖 Educations
-- *Starting at 2024.08, Ph.D., Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China
-- *2022.09 - 2023.07, M.Sc., Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China
-- *2018.09 - 2022.07, B.Eng., Automation, Shenzhen University, Shenzhen, China
+- *2024.08 - 2028.07*, Ph.D., Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China
+- *2022.09 - 2023.07*, M.Sc., Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China
+- *2018.09 - 2022.07*, B.Eng., Automation, Shenzhen University, Shenzhen, China
 
 <span class='anchor' id='work'></span>
 # 💻 Work Experience
@@ -88,5 +94,4 @@ My research interests include computer vision and its applications in medical im
 <span class='anchor' id='work'></span>
 # 💬 Professional Services
 - Regular Journal Reviewer:
-  
-Image and Vision Computing
+  Image and Vision Computing

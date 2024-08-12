@@ -51,11 +51,11 @@ My research interests include computer vision and its applications in medical im
 
 - **Rethinking Exemplars for Continual Semantic Segmentation in Endoscopy Scenes: Entropy-based Mini-Batch Pseudo-Replay**<br>
   **Guankun Wang†**, Long Bai†, Yanan Wu, Tong Chen, Hongliang Ren*<br>
-  Computers in Biology and Medicine (CBM), 2023. (IF: 7.7)
+  Computers in Biology and Medicine (CBM), 2023.
 
 - **Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs**<br>
   **Guankun Wang**, Tian-Ao Ren, Jiewen Lai, Long Bai, and Hongliang Ren<br>
-  Medical & Biological Engineering & Computing (MBEC), 2023. (IF: 3.2)
+  Medical & Biological Engineering & Computing (MBEC), 2023.
 
 - **Sim-to-Real Segmentation in Robot-assisted Transoral Tracheal Intubation**<br>
   **Guankun Wang**, Tian-Ao Ren, Jiewen Lai, Long Bai, Hongliang Ren*<br>
@@ -64,7 +64,7 @@ My research interests include computer vision and its applications in medical im
 
 - **Mask Focal Loss: A unifying framework for dense crowd counting with canonical object detection networks**<br>
   Xiaopin Zhong, **Guankun Wang**, Weixiang Liu*, Zongze Wu, Yuanlong Deng<br>
-  Multimedia Tools and Applications (MTAP), Accepted, 2023. (IF: 3.6)
+  Multimedia Tools and Applications (MTAP), Accepted, 2023.
 
 - **An Improved FairMOT Method for Crowd Tracking and Counting in Subway Passages**<br>
   **Guankun Wang**, Yongze Yang, Xiaopin Zhong*, Yang Yang<br>

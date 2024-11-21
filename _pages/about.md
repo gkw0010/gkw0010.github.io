@@ -24,6 +24,7 @@ My research interests include computer vision and its applications in medical im
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 One paper TSUBF-Net is accepted by [**Neural Computing and Applications**](https://link.springer.com/journal/521) (IF: 4.8).
 - *2024.08*: &nbsp;🎉🎉 One paper Surgical-VQLA++ is accepted by [**Information Fusion**](https://www.sciencedirect.com/science/article/pii/S1566253524003804) (IF: 14.7).
 - *2024.05*: &nbsp;🎉🎉 Our poster on surgical instrument tracking receives the Best Poster Award in [**ICRA 2024 C4SR+ Workshop**](https://sites.google.com/view/icra24-c4sr)!
 - *2024.03*: &nbsp;🎉🎉 I receive the offer from CUHK Graduate School for CUHK-HUAWEI Joint PhD Program!
@@ -93,5 +94,5 @@ My research interests include computer vision and its applications in medical im
 
 <span class='anchor' id='work'></span>
 # 💬 Professional Services
-- Regular Journal Reviewer:
-  Image and Vision Computing, MICCAI
+- Regular Journal and Conference Reviewer:
+  Image and Vision Computing, MICCAI, ISBI, IPCAI

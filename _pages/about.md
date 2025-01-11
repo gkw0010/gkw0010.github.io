@@ -24,7 +24,8 @@ My research interests include computer vision and its applications in medical im
 
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 One paper Surgical-VQLA++ is accepted by [**Information Fusion**](https://www.sciencedirect.com/science/article/pii/S1566253524003804) (IF: 14.7).
+- *2025.01*: &nbsp;🎉🎉 One paper TSUBF-Net is published by [**Neural Computing and Applications**](https://link.springer.com/article/10.1007/s00521-024-10824-9) (IF: 4.8).
+- *2024.08*: &nbsp;🎉🎉 One paper Surgical-VQLA++ is published by [**Information Fusion**](https://www.sciencedirect.com/science/article/pii/S1566253524003804) (IF: 14.7).
 - *2024.05*: &nbsp;🎉🎉 Our poster on surgical instrument tracking receives the Best Poster Award in [**ICRA 2024 C4SR+ Workshop**](https://sites.google.com/view/icra24-c4sr)!
 - *2024.03*: &nbsp;🎉🎉 I receive the offer from CUHK Graduate School for CUHK-HUAWEI Joint PhD Program!
 - *2024.02*: &nbsp;🎉🎉 Our work "EndoOOD: Uncertainty-aware Out-of-distribution Detection in Capsule Endoscopy Diagnosis" is accepted by [**ISBI 2024**](https://biomedicalimaging.org/2024/)!
@@ -40,6 +41,10 @@ My research interests include computer vision and its applications in medical im
 - **Surgical-VQLA++: Adversarial contrastive learning for calibrated robust visual question-localized answering in robotic surgery**<br>
   Long Bai†, **Guankun Wang†**, Mobarakol Islam†, Lalithkumar Seenivasan, An Wang, Hongliang Ren*<br>
   Information Fusion (IF), 2024. (IF: 14.7)
+
+- **TSUBF-Net: Trans-spatial UNet-like network with Bi-direction fusion for segmentation of adenoid hypertrophy in CT**<br>
+  Rulin Zhou, Yingjie Feng, **Guankun Wang**, Xiaopin Zhong, Zongze Wu, Qiang Wu* & Xi Zhang <br>
+  Neural Computing and Applications (NCAP), 2025. (IF: 4.8)
 
 - **Towards Open-Set Surgical Activity Recognition in Robot-assisted Surgery**<br>
   Long Bai†, **Guankun Wang†**, Jie Wang, Xiaoxiao Yang, Huxin Gao, Xin Liang, An Wang, Mobarakol Islam, 	Hongliang Ren*<br>

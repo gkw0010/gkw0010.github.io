@@ -100,4 +100,4 @@ My research interests include computer vision and its applications in medical im
 <span class='anchor' id='work'></span>
 # 💬 Professional Services
 - Regular Journal and Conference Reviewer:
-  International Journal of Machine Learning and Cybernetics, Image and Vision Computing, MICCAI, ISBI, IPCAI
+  IJCARS, International Journal of Machine Learning and Cybernetics, Image and Vision Computing, MICCAI, ISBI, IPCAI

@@ -24,14 +24,12 @@ My research interests include computer vision and its applications in medical im
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 Our work "PDZSeg: Adapting the Foundation Model for Dissection Zone Segmentation with Visual Prompts in Robot-assisted Endoscopic Submucosal Dissection" is accepted by [**IPCAI 2025**](https://sites.google.com/view/ipcai2025)!
+- *2025.01*: &nbsp;🎉🎉 Our work "ETSM: Automating Dissection Trajectory Suggestion and Confidence Map-Based Safety Margin Prediction for Robot-assisted Endoscopic Submucosal Dissection" is accepted by [**ICRA 2025**](https://2025.ieee-icra.org/)!
 - *2025.01*: &nbsp;🎉🎉 One paper TSUBF-Net is published by [**Neural Computing and Applications**](https://link.springer.com/article/10.1007/s00521-024-10824-9) (IF: 4.8).
 - *2024.08*: &nbsp;🎉🎉 One paper Surgical-VQLA++ is published by [**Information Fusion**](https://www.sciencedirect.com/science/article/pii/S1566253524003804) (IF: 14.7).
 - *2024.05*: &nbsp;🎉🎉 Our poster on surgical instrument tracking receives the Best Poster Award in [**ICRA 2024 C4SR+ Workshop**](https://sites.google.com/view/icra24-c4sr)!
 - *2024.03*: &nbsp;🎉🎉 I receive the offer from CUHK Graduate School for CUHK-HUAWEI Joint PhD Program!
-- *2024.02*: &nbsp;🎉🎉 Our work "EndoOOD: Uncertainty-aware Out-of-distribution Detection in Capsule Endoscopy Diagnosis" is accepted by [**ISBI 2024**](https://biomedicalimaging.org/2024/)!
-- *2024.01*: &nbsp;🎉🎉 Our work "OSSAR: Towards Open-Set Surgical Activity Recognition in Robot-assisted Surgery" is accepted by [**ICRA 2024**](https://2024.ieee-icra.org/)!
-- *2024.01*: &nbsp;🎉🎉 Our work "Mask focal loss: a unifying framework for dense crowd counting with canonical object detection networks" has been published on [**Multimedia Tools and Applications**](https://link.springer.com/journal/11042)!
-
 
 
 <span class='anchor' id='publications'></span>
@@ -41,6 +39,14 @@ My research interests include computer vision and its applications in medical im
 - **Surgical-VQLA++: Adversarial contrastive learning for calibrated robust visual question-localized answering in robotic surgery**<br>
   Long Bai†, **Guankun Wang†**, Mobarakol Islam†, Lalithkumar Seenivasan, An Wang, Hongliang Ren*<br>
   Information Fusion (IF), 2024. (IF: 14.7)
+
+- **ETSM: Automating Dissection Trajectory Suggestion and Confidence Map-Based Safety Margin Prediction for Robot-assisted Endoscopic Submucosal Dissection**<br>
+  Mengya Xu†, Wenjin Mo†, **Guankun Wang†**, Huxin Gao, An Wang, Long Bai, Chaoyang Lyu, Xiaoxiao Yang, Zhen Li, Hongliang Ren*<br>
+  IEEE International Conference on Robotics and Automation (ICRA 2025). (CCF-B)
+
+- **PDZSeg: Adapting the Foundation Model for Dissection Zone Segmentation with Visual Prompts in Robot-assisted Endoscopic Submucosal Dissection**<br>
+  Mengya Xu, Wenjin Mo, **Guankun Wang**, Huxin Gao, An Wang, Zhen Li, Xiaoxiao Yang, Hongliang Ren*<br>
+  International Conference on Information Processing in Computer-Assisted Interventions (IPCAI 2025).
 
 - **TSUBF-Net: Trans-spatial UNet-like network with Bi-direction fusion for segmentation of adenoid hypertrophy in CT**<br>
   Rulin Zhou, Yingjie Feng, **Guankun Wang**, Xiaopin Zhong, Zongze Wu, Qiang Wu* & Xi Zhang <br>
@@ -61,11 +67,6 @@ My research interests include computer vision and its applications in medical im
 - **Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs**<br>
   **Guankun Wang**, Tian-Ao Ren, Jiewen Lai, Long Bai, and Hongliang Ren<br>
   Medical & Biological Engineering & Computing (MBEC), 2023.
-
-- **Sim-to-Real Segmentation in Robot-assisted Transoral Tracheal Intubation**<br>
-  **Guankun Wang**, Tian-Ao Ren, Jiewen Lai, Long Bai, Hongliang Ren*<br>
-  IEEE International Conference on Robotics and Automation (ICRA 2023), Workshop on New Evolutions in Surgical Robotics.<br>
-  **Best Poster Award**
 
 - **Mask Focal Loss: A unifying framework for dense crowd counting with canonical object detection networks**<br>
   Xiaopin Zhong, **Guankun Wang**, Weixiang Liu*, Zongze Wu, Yuanlong Deng<br>
@@ -99,4 +100,4 @@ My research interests include computer vision and its applications in medical im
 <span class='anchor' id='work'></span>
 # 💬 Professional Services
 - Regular Journal and Conference Reviewer:
-  Image and Vision Computing, MICCAI, ISBI, IPCAI
+  International Journal of Machine Learning and Cybernetics, Image and Vision Computing, MICCAI, ISBI, IPCAI
